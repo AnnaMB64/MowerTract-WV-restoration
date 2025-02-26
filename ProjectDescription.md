@@ -1,5 +1,8 @@
 
-# Project title
+# Mower Tract Mined Land Restoration, WV
+
+Ecological restoration of the Mower Tract mined lands in the Monongahela National Forest, WV.
+
 
 Across the README.md file, please answer the who, what, when, where, why, and how of the map making process
 
@@ -25,8 +28,11 @@ If you wanted to include a table of contents to sections, and then links to each
 If you are interested in [other Markdown formatting options](https://www.markdownguide.org/basic-syntax/)
 
 ### Purpose
+Please write about the map purpose using complete sentences.
 
-Please write about the map purpose using complete sentences. 
+Starting in 2010, the U.S. Forest Service Monongahela National Forest (MNF) began a partnership with Green Forests Work (GFW), a nonprofit housed in The University of Kentucky's Forestry Department, and a host of partners to conduct a suite of restoration activities, including non-native species removal, soil decompaction, organic matter loading, mined land reforestation, and wetland creation. In the short term, the goal is to create an early successional habitat, with the ultimate goal being to establish a red spruce dominant forest. Ancillary benefits include improved water quality, enhanced wildlife habitat, and improved ecosystem services, such as carbon sequestration. To date, nearly 900,000 seedling have been planted on almost 1,500 acres at the Mower Tract on Cheat Mountain in the MNF.
+
+This map was created to showcase the mined land restoration work completed from 2010 through the end of 2024, and to layout some of the plans for future work.
 
 ### Mapmaking Process
 
