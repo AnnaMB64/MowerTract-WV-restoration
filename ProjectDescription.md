@@ -55,11 +55,11 @@ This map was created to showcase the mined land restoration work completed from 
 
 Step 1. Instead of reinventing the wheel, I began this project with a good-looking but somewhat broken wheel in need of polishing- the Mapbox custom style I created for the assignment in MAP 671 Module 3. In that assignment, with instructor-provided color styles and plenty of written guidance, I created a custom map style that is pleasing to me and that I can repurpose for future map-making. This style is useful as an all-purpose starter map for me because it has many features typical of maps that I create often for my work. 
 
-As stated on my custom style html page,   
->My custom style differentiates land types and shows terrain through hillshading. In the main frame, labels are assigned to rivers, and as you zoom out other names and boundaries appear, such as county names, state abbreviations, ocean names, and country names... The bluegreen-pattern and graze-pattern color styles give the map an old world look and were provided by the insructor. This style would be helpful for most maps in which zooming out to larger areas would be valuable to the viewers.
-
 ![Anna's custom style](graphics/1_MapboxStarterStyle.png)
 *Anna's custom map style Mapbox map. Downtown Pittsburgh was the focal center for the assignment map, but the map can be zoomed all the way out to see the continents.*
+
+As stated on my custom style html page,   
+>My custom style differentiates land types and shows terrain through hillshading. In the main frame, labels are assigned to rivers, and as you zoom out other names and boundaries appear, such as county names, state abbreviations, ocean names, and country names... The bluegreen-pattern and graze-pattern color styles give the map an old world look and were provided by the insructor. This style would be helpful for most maps in which zooming out to larger areas would be valuable to the viewers.
 
 
 #### Upload Data to QGIS
