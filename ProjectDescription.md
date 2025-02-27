@@ -11,7 +11,6 @@ Ecological restoration of the Mower Tract mined lands in the Monongahela Nationa
 
 - [Data Source](#data-source)
 - [Project Background](#project-background)
-- ....
 - [Purpose](#purpose)
 - [Mapmaking Process](#mapmaking-process)
     - [Mapbox Starter Style](#mapbox-starter-style)
@@ -30,7 +29,7 @@ Ecological restoration of the Mower Tract mined lands in the Monongahela Nationa
 
 ### Project Background
 
-If you are interested in [other Markdown formatting options](https://www.markdownguide.org/basic-syntax/)
+*If you are interested in [other Markdown formatting options](https://www.markdownguide.org/basic-syntax/)*
 
 ### Purpose
 *Please write about the map purpose using complete sentences.*
@@ -43,7 +42,7 @@ This map was created to showcase the mined land restoration work completed from 
 
 *Example of in process map ![in process image](filepath)*
 
-*You can describe the mapmapking process in this section, including images where it helps to describe the process.*
+*You can describe the mapmaking process in this section, including images where it helps to describe the process.*
 
 *You can also use some lists, and here's some formatting ideas.*
 
@@ -57,10 +56,10 @@ This map was created to showcase the mined land restoration work completed from 
 Step 1. Instead of reinventing the wheel, I began this project with a good-looking but somewhat broken wheel in need of polishing- the Mapbox custom style I created for the assignment in MAP 671 Module 3. In that assignment, with instructor-provided color styles and plenty of written guidance, I created a custom map style that is pleasing to me and that I can repurpose for future map-making. This style is useful as an all-purpose starter map for me because it has many features typical of maps that I create often for my work. 
 
 As stated on my custom style html page,   
->My custom style differentiates land types and shows terrain through hillshading. In the main frame, labels are assigned to rivers, and as you zoom out other names and boundaries appear, such as county names, state abbreviations, ocean names, and country names." ... "The bluegreen-pattern and graze-pattern color styles give the map an old world look and were provided by the insructor. This style would be helpful for most maps in which zooming out to larger areas would be valuable to the viewers.
+>My custom style differentiates land types and shows terrain through hillshading. In the main frame, labels are assigned to rivers, and as you zoom out other names and boundaries appear, such as county names, state abbreviations, ocean names, and country names... The bluegreen-pattern and graze-pattern color styles give the map an old world look and were provided by the insructor. This style would be helpful for most maps in which zooming out to larger areas would be valuable to the viewers.
 
 ![Anna's custom style](graphics/1_MapboxStarterStyle.png)
-Downtown Pittsburgh, the focal point of my module 3 custom style assignment map, which can be zoomed all the way out to the whole earth.
+*Anna's custom map style Mapbox map. Downtown Pittsburgh was the focal center for the assignment map, but the map can be zoomed all the way out to see the continents.*
 
 
 #### Upload Data to QGIS
@@ -68,7 +67,7 @@ Downtown Pittsburgh, the focal point of my module 3 custom style assignment map,
 I knew that I needed to do some manipulation of my data before adding it to my Mapbox style, so I added the shapefiles to QGIS. The 14 layers represent 14 mined land restoration areas "completed" over 14 years. I say "completed" because we are always going back into these restoration areas to do enhancement work.
 
 ![Add shapefiles](graphics/2_UploadDataToQGIS.png)
-Shapefiles for 14 mined land restoration areas were added to QGIS.
+*Adding shapefiles to QGIS.*
 
 
 #### Merge Layers and Organize Attribute Table
@@ -76,7 +75,8 @@ Shapefiles for 14 mined land restoration areas were added to QGIS.
 Merge vector data from 14 layers into one layer and clean up attribute table. To do this, I navigated to the Merge Vector Layer tool by selecting Vector > Data Management Tools from the top menu bar. A temporary file was created, which I exported to a GeoJSON file and named. Because the attribute tables of the 14 layers were created over many years and some contained fields unique to just one layer, leaving a large number of null cells, combined attribute table columns needed to be cleaned up manually and organized.
 
 ![Merge vector layers](graphics/3_MergeVectorLayers.png)
-Merged vector layers and then organized table columns.
+*Merging vector layers.*
+
 
 #### 
 
