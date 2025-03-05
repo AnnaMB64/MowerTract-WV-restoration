@@ -86,9 +86,7 @@ I also merged data for the dispersed campsites, trails, and wetlands, but I did 
 
 #### Add Layers to Mapbox, Customize Styles, and Add Labels
 
-One by one, I added the merged and cleaned up resoration areas, dispersed campsites, trails, wetlands, and restoration area names point data to Mapbox. I manipulated the colors, sizes, and opacities, and changed these at various zoom levels. I changed the restoration area names points type to a symbol and added a
-
-, the trails, and the dispersed campsites.  
+One by one, I added the merged and cleaned up resoration areas, dispersed campsites, trails, wetlands, and restoration area names point data to Mapbox. I manipulated the colors, sizes, and opacities, and changed these at various zoom levels. I changed the restoration area names points type to a symbol and added the names. I duplicated the trails layer and made it a symbol text and added labels to the various trails, which I also changed the colors of. I added the dispersed campsite numbers. 
 
 #### 
 
