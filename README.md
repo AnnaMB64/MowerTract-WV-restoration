@@ -62,9 +62,7 @@ This map was created to showcase the mined land restoration work completed from 
 
 #### Mapbox Style
 
-Classic Mapbox Satellite with some customizations, such as __________
-
-I customized this style to change road colors in the main frame, and as as you zoom out other names and boundaries appear, such as county names, state abbreviations, ocean names, and country names.
+I chose the Classic Mapbox Satellite and made minimal customizations due to the amount of time spent cleaning up and styling my data.
 
 #### Upload Data to QGIS
 
@@ -82,25 +80,30 @@ I merged vector data from 14 layers into one layer and cleaned up the attribute 
 ![Merge vector layers](graphics/3_MergeVectorLayers.png)
 *Merging vector layers.*
 
-I also merged data for the dispersed campsites, trails, and wetlands, but I did not need to clean up their attribute tables.
+I also merged data for the dispersed campsites, trails, and wetlands.
 
 #### Add Layers to Mapbox, Customize Styles, and Add Labels
 
-One by one, I added the merged and cleaned up resoration areas, dispersed campsites, trails, wetlands, and restoration area names point data to Mapbox. I manipulated the colors, sizes, and opacities, and changed these at various zoom levels. I changed the restoration area names points type to a symbol and added the names. I duplicated the trails layer and made it a symbol text and added labels to the various trails, which I also changed the colors of. I added the dispersed campsite numbers. 
+One by one, I added the merged and cleaned up resoration areas, dispersed campsites, trails, wetlands, and restoration area names point data to Mapbox. I manipulated the colors, sizes, opacities, and changed these at various zoom levels. I changed the restoration area names points type to a symbol and added the names. I duplicated the trails and the campsites layers and made the copies symbol/text to add labels; each trail with a unique name was labelled and the dispersed campsite were labelled with their assigned numbers. I changed the colors of each of the trails and their names. 
+
+![Style the trails layer and symbol/text copy.](graphics/9.StyleTrailsLayer.png)
+*Styling the trails layers.*
 
 #### 
 
 Restoration areas
-
-I did these same steps for adding the names of the trails and the assigned numbers for each dispersed campsite.
-
-
 
 
 
 ### Map summary
 
 What are the key findings to take from your map and the overall mapmaking process?
+
+**Key findings of my map:**
+
+1. There are many ways to tell the story of our complex ecological restoration project, and we have tried a number of those ways over the 15 years of this work. Bringing groups for in-person tours is an exceptional way to showcase the work, but there are many obvious limitations. An interactive map that can capture all the work done in each restoration area over the years far exceeds a flat map pdf like the ones I've been making for our annual reports.
+2. Having the opportunity to view the work spatially on an interactive map solves many of my past problems, especially the problem of how to add to the story of areas that were already "completed" when we go back in to add habitat enhancements years later.
+3. This map is a work in progress, one that I will continue to add to and improve over time, and as the restoration work continues. I am pleased with what I have learned in this course, and especially the fact that I was able to create this map.
 
 ## Final Project Link
 
