@@ -11,10 +11,10 @@ Ecological restoration of reclaimed mined lands on Cheat Mountain, in Randolph a
 - [Project Background](#project-background)
 - [Purpose](#purpose)
 - [Mapmaking Process](#mapmaking-process)
-    - [Mapbox Starter Style](#mapbox-starter-style)
+    - [Mapbox Style](#mapbox-style)
     - [Upload Data to QGIS](#upload-data-to-qgis)
-    - [Merge Layers and Organize Attribute Table](#merge-layers-and-organize-attribute-table)
-    - [Add Layers to Mapbox, Customize styles, and Add Labels](Add-Layers-to-Mapbox,-Customize-styles,-and-Add-Labels) 
+    - [Merge Layers](#merge-layers)
+    - [Add Layers to Mapbox, Customize styles, and Add Labels](Add-Layers-to-Mapbox-,-Customize-styles-,-and-Add-Labels) 
     - [Map summary](#map-summary)
 
 ***
@@ -54,7 +54,7 @@ I needed to do some manipulation of my data before adding it to my Mapbox style,
 
 I also added data to QGIS for restoration area name points, dispersed campsites, trails, and wetlands. 
 
-#### Merge Layers and Organize Attribute Table
+#### Merge Layers
 
 I merged vector data from 14 layers into one layer and cleaned up the attribute table. To do this, I navigated to the Merge Vector Layer tool by selecting Vector > Data Management Tools from the top menu bar. A temporary file was created, which I exported to a shapefile. Because the attribute tables of the 14 layers were created over many years and some contained fields unique to just one layer, leaving a large number of null cells, combined attribute table columns needed to be cleaned up manually and organized.
 
