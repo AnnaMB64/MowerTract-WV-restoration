@@ -14,7 +14,9 @@ Ecological restoration of reclaimed mined lands on Cheat Mountain, in Randolph a
     - [Mapbox Style](#mapbox-style)
     - [Upload Data to QGIS](#upload-data-to-qgis)
     - [Merge Layers](#merge-layers)
-    - [Add Layers to Mapbox, Customize styles, and Add Labels](Add-Layers-to-Mapbox-Customize-styles-and-Add-Labels) 
+    - [Add Layers to Mapbox](Add-Layers-to-Mapbox)
+        - [Customize styles](Customize-styles)
+        - [Add Labels](Add-Labels) 
     - [Map summary](#map-summary)
 
 ***
@@ -66,14 +68,16 @@ I also merged data for the dispersed campsites, trails, and wetlands. I had a gr
 ![Merge many wetland vector layers](graphics/8.MergeWetlandDataByType.png)
 *Merging many wetland layers into one.*
 
-#### Add Layers to Mapbox, Customize Styles, and Add Labels
+#### Add Layers to Mapbox
 
 One by one, I added the merged and cleaned up resoration areas, dispersed campsites, trails, wetlands, and restoration area names point data to Mapbox. I manipulated the colors, sizes, opacities, and changed these at various zoom levels. I changed the restoration area names points type to a symbol and added the names. I duplicated the trails and the campsites layers and made the copies symbol/text to add labels; each trail with a unique name was labelled and the dispersed campsite were labelled with their assigned numbers. I changed the colors of each of the trails and their names. 
 
 ![Style the trails layer and symbol/text copy.](graphics/9.StyleTrailsLayer.png)
 *Styling the trails layers.*
 
-#### 
+##### Customize Styles
+
+##### Add Labels
 
 Restoration areas
 
