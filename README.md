@@ -14,7 +14,7 @@ Ecological restoration of reclaimed mined lands on Cheat Mountain, in Randolph a
     - [Mapbox Style](#mapbox-style)
     - [Upload Data to QGIS](#upload-data-to-qgis)
     - [Merge Layers](#merge-layers)
-    - [Add Layers to Mapbox, Customize styles, and Add Labels](Add-Layers-to-Mapbox-,-Customize-styles-,-and-Add-Labels) 
+    - [Add Layers to Mapbox, Customize styles, and Add Labels](Add-Layers-to-Mapbox-Customize-styles-and-Add-Labels) 
     - [Map summary](#map-summary)
 
 ***
