@@ -16,9 +16,8 @@ Ecological restoration of reclaimed mined lands on Cheat Mountain, in Randolph a
     - [Mapbox Starter Style](#mapbox-starter-style)
     - [Upload Data to QGIS](#upload-data-to-qgis)
     - [Merge Layers and Organize Attribute Table](#merge-layers-and-organize-attribute-table)
-    -[Add Layers to Mapbox, Customize styles, and Add Labels](Add-Layers-to-Mapbox,-Customize-styles,-and-Add-Labels) 
-   
-- [Map summary](#map-summary)
+    - [Add Layers to Mapbox, Customize styles, and Add Labels](Add-Layers-to-Mapbox,-Customize-styles,-and-Add-Labels) 
+    - [Map summary](#map-summary)
 
 ***
 
@@ -45,7 +44,7 @@ Starting in 2010, the U.S. Forest Service Monongahela National Forest (MNF) bega
 ### Purpose
 *Please write about the map purpose using complete sentences.*
 
-This map was created to showcase the mined land restoration work completed from 2010 through the end of 2024, and to layout some of the plans for future work.
+This map was created to showcase the mined land restoration work completed from 2010 through the end of 2024, and to layout some of the plans for future work. I plan to continue improving and adding to this map to use as part of a case study that we plan to publish about this restoration project. Perhaps I will transition to a Web Map through the QGIS plugin so that I can include clickable information popups.
 
 ### Mapmaking Process
 
@@ -81,6 +80,9 @@ I merged vector data from 14 layers into one layer and cleaned up the attribute 
 *Merging vector layers.*
 
 I also merged data for the dispersed campsites, trails, and wetlands.
+
+![Merge many wetland vector layers](graphics/8.MergeWetlandDataByType.png)
+*Merging many wetland vector layers into one.*
 
 #### Add Layers to Mapbox, Customize Styles, and Add Labels
 
