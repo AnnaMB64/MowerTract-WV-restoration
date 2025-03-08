@@ -107,4 +107,4 @@ I have many more things that I'd like to add to this map, things that may be bet
 
 Here you are linking from the README.md to the index.html.
 
-Please view the [final map online](https://github.com/AnnaMB64/MowerTract-WV-restoration)
+Please view my [final map online](https://username.github.io/AnnaMB64/MowerTract-WV-restoration)
