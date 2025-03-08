@@ -80,7 +80,7 @@ One by one, I added the merged and cleaned up restoration areas, dispersed camps
 ![Style the trails layer and symbol/text copy.](graphics/9.StyleTrailsLayer.png)
 *Styling the trails layers.*
 
-#### Work-Arounds
+#### Workarounds
 
 ##### Add a Legend
 
